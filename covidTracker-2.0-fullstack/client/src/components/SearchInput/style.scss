@@ -1,0 +1,33 @@
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input {
+    font-family: 'Raleway', sans-serif;
+    border: 1px solid #eeeeee;
+    padding: 5px;
+    background-color: transparent; 
+    color: #eeeeee;
+
+    &:focus{
+        outline: none;
+    }
+}
+
+Link {
+    width: 30px;
+    height: 30px;
+}
+
+button {
+    margin-left: 5px;
+    background-color: transparent;
+    border: none;
+}
+
+
+
+
+

@@ -1,0 +1,32 @@
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #21384f;
+    color: #eeeeee;
+    width: 100%;
+    height: 70px;
+    padding: 10px 100px;
+    position: fixed;
+    z-index: 2;
+
+    .nav-element {
+        text-decoration: none;
+        color: #eeeeee;
+        font-size: 15px;
+
+        .nav-icon {
+            width: 180px;
+            height: auto;
+        }
+    }
+    .user-avatar {
+        width: 25px;
+    }
+}

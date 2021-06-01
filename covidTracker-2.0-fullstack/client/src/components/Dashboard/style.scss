@@ -1,0 +1,63 @@
+.dashboard {
+    background-color:#182430;
+    color: #eeeeee;
+    padding: 90px 100px 60px 100px;
+
+    .container {
+        max-width: 1400px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+
+        h1 {
+            font-size: 85px;
+            margin: 40px 0;
+        }
+
+        p {
+            font-size: 18px;
+            color: rgb(139, 139, 139)
+        }
+
+        h3 {
+            font-size: 22px;
+            font-weight: 700;
+            margin-bottom: 30px;
+        }
+
+        .text-container__button {
+            background-color:#1A91DA;
+            color: #eeeeee;
+            border-radius: 30px;
+            font-size: 15px;
+            width: 140px;
+            height: 41px;
+            font-family: inherit;
+            font-weight: bold;
+            cursor: pointer;
+
+            .main-button {
+                text-decoration: none;
+                width: 100%;
+                height: 100%;
+            }
+        }
+        
+        .chart-container__data {
+            display: flex;
+            justify-content: center;
+            margin: 15px 0 0 140px
+        }
+
+        ul {
+            text-align: center;
+            display: flex;
+        }
+
+        .Highlighted-data-card {
+            border-top: 4px solid #2D509F;
+            margin-right: 45px;
+            padding: 10px;
+        }
+    }
+}

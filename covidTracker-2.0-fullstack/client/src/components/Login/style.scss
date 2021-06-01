@@ -1,0 +1,33 @@
+.login {
+    text-align: center;
+    background-color:#182430;
+    height: 100vh;
+    color: #eeeeee;
+    padding-top:110px ;
+
+    .container-login {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    .login__photo {
+        margin-top: 3%;
+        border-radius: 50%;
+        width: 7%;
+        height: 7%;
+    }
+}
+
+    .login__button {
+        background-color:#1A91DA;
+        color: #eeeeee;
+        font-size: 15px;
+        border-radius: 30px;
+        height: 41px;
+        width: 116px;
+        font-weight: bold;
+        font-family: inherit;
+        cursor: pointer;
+        margin-top: 3%;
+    } 
+}
