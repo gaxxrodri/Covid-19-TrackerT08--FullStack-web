@@ -1,11 +1,11 @@
 import { combineReducers } from 'redux';
-import countryReducer from './countryReducer';
-import favoriteReducer from './favoriteReducer';
-import globalDataReducer from './globalDataReducer';
-import vaccineByCountryReducer from './vaccineByCountryReducer';
-import vaccinesByContinentReducer from './vaccinesByContinentReducer';
-import countryHistoryReducer from './countryHistoryReducer';
-import vaccineReducer from './vaccineReducer';
+import countryReducer from './CountryReducer';
+import favoriteReducer from './FavoriteReducer';
+import globalDataReducer from './GlobalDataReducer';
+import vaccineByCountryReducer from './VaccineByCountryReducer';
+import vaccinesByContinentReducer from './VaccinesByContinentReducer';
+import countryHistoryReducer from './CountryHistoryReducer';
+import vaccineReducer from './VaccineReducer';
 
 const rootReducers = combineReducers({
   globalData: globalDataReducer,
