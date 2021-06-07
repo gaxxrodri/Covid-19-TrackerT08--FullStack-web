@@ -1,4 +1,4 @@
-![covidwebpage](https://i.ibb.co/GM0hMGR/Covid-Tracker08.png)
+![covidwebpage](https://i.ibb.co/mz0Y0D4/Covid-Tracker08.png)
 
 
 
