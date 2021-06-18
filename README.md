@@ -11,7 +11,7 @@ Using React redux with JS for the frontend and Node.js, Express, MongoDB and Mon
 Authentication with Auth0, testing with Jest and cleaner with SonarQube Scanner.
 
 
-****Technologies & tools used***
+### Build with:
 
 <h4>• 💻 Frontend :</h4>
 ~ JavaScript ES6+
