@@ -1,8 +1,7 @@
-![covidwebpage](https://i.ibb.co/mz0Y0D4/Covid-Tracker08.png)
-
-
-
 # Covid-19 TrackerT08
+
+![CovidTrackerImg](https://user-images.githubusercontent.com/76969924/203355946-d2ad93d1-fd2e-4bca-bac7-48a0f6a08dad.png)
+
 
 
 🦠💉🧬 Web page dedicated to monitoring statistics of Covid-19 and vaccination progress in countries, continents, and worlwide.
@@ -53,5 +52,23 @@ Authentication with Auth0, testing with Jest and cleaner with SonarQube Scanner.
 ~ TDD
 ~ ESLint
 ~ SOLID Principles
+
+
+
+### How tu run this app:
+
+1- Download the project
+
+2- Open project in your code editor
+
+3- Run next command for install dependencies
+```
+npm install
+```
+
+4- Open src folder and run the command
+```
+npm start
+```
 
 
