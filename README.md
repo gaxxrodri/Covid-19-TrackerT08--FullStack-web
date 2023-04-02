@@ -3,7 +3,6 @@
 ![CovidTrackerImg](https://user-images.githubusercontent.com/76969924/203355946-d2ad93d1-fd2e-4bca-bac7-48a0f6a08dad.png)
 
 
-
 🦠💉🧬 Web page dedicated to monitoring statistics of Covid-19 and vaccination progress in countries, continents, and worlwide.
 
 Using React Redux with JS for the frontend and Node.js, Express, MongoDB and Mongoose for the backend, with an API to get the latest information and referred to W.H.O for advices.
