@@ -32,13 +32,13 @@ Authentication with Auth0, testing with Jest and cleaner with SonarQube Scanner.
 ~ MongoDB Atlas
 ~ MongoDB Compass
 
-<h4>• 🎨 Desing:</h4>
+<h4>• 🎨 Design:</h4>
 ~ CSS 3
 ~ SASS
 ~ BEM
 ~ Chart.js
 ~ D3
-~ Responsive Desing
+~ Responsive Design
 ~ Flexbox
 ~ MediaQueries
 ~ Excalidraw
